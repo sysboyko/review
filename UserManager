@@ -3,6 +3,7 @@ import java.io.*;
 
 public class UserManager {
 
+
   public static List users = new ArrayList(); // raw type
 
   public static int avgAge = 0;
